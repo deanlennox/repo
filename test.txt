@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-ilflgutc
-=======
-xxxxxxxx
-FU691234
-yyyyy
->>>>>>> c9fa19655b4a2d9891ed332b0ac7b1c87f9c5b8f
+
